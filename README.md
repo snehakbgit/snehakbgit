@@ -1,30 +1,72 @@
-<div align="center" style="padding: 40px 20px;">
+<!-- HERO SECTION -->
+<div align="center" style="
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #f5f7fa, #e6ecf3);
+  border-radius: 20px;
+">
 
-  <h1 style="margin-bottom: 8px;">Sneha Kumari</h1>
+  <h1 style="
+    margin: 0;
+    font-size: 42px;
+    letter-spacing: 1px;
+  ">
+    Sneha Kumari
+  </h1>
 
-  <p style="font-size: 16px; color: #555; margin-top: 0;">
-    UI Designer &nbsp;•&nbsp; Python Developer
+  <p style="
+    margin-top: 10px;
+    font-size: 18px;
+    color: #444;
+  ">
+    UI Designer • Python Developer
+  </p>
+
+  <p style="
+    max-width: 600px;
+    margin: 20px auto 0;
+    font-size: 15px;
+    color: #666;
+  ">
+    Crafting intuitive user experiences and building meaningful digital solutions
+    through design and code.
   </p>
 
 </div>
 
----
+<br/>
 
+<!-- MAIN CONTENT -->
 <div style="max-width: 900px; margin: auto;">
 
-  <div style="background: #f9f9f9; padding: 24px; border-radius: 14px; margin-bottom: 24px;">
+  <!-- ABOUT -->
+  <div style="
+    background: #ffffff;
+    padding: 28px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+    margin-bottom: 28px;
+  ">
     <h3>About Me</h3>
-    <p>
-      I am a UI Designer and Python Developer passionate about creating clean, intuitive, and user-centered digital experiences.
-      I enjoy blending aesthetics with logic to build products that are both beautiful and functional.
+    <p style="color: #555;">
+      I’m a UI Designer and Python Developer who enjoys transforming complex ideas
+      into clean, intuitive, and user-centered digital experiences.
+      I believe great design is where aesthetics meet logic.
     </p>
   </div>
 
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 24px;">
+  <!-- SKILLS -->
+  <div style="display: flex; gap: 24px; flex-wrap: wrap; margin-bottom: 28px;">
 
-    <div style="flex: 1; min-width: 260px; background: #f9f9f9; padding: 20px; border-radius: 14px;">
+    <div style="
+      flex: 1;
+      min-width: 260px;
+      background: #ffffff;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+    ">
       <h3>Design</h3>
-      <ul>
+      <ul style="color: #555; line-height: 1.8;">
         <li>UI / UX Design</li>
         <li>Figma</li>
         <li>Wireframing & Prototyping</li>
@@ -32,38 +74,64 @@
       </ul>
     </div>
 
-    <div style="flex: 1; min-width: 260px; background: #f9f9f9; padding: 20px; border-radius: 14px;">
+    <div style="
+      flex: 1;
+      min-width: 260px;
+      background: #ffffff;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+    ">
       <h3>Development</h3>
-      <ul>
+      <ul style="color: #555; line-height: 1.8;">
         <li>Python</li>
         <li>HTML & CSS</li>
-        <li>Basic JavaScript</li>
+        <li>JavaScript (Basics)</li>
         <li>Git & GitHub</li>
       </ul>
     </div>
 
   </div>
 
-  <div style="background: #f9f9f9; padding: 24px; border-radius: 14px; margin-bottom: 24px;">
+  <!-- CURRENTLY -->
+  <div style="
+    background: #ffffff;
+    padding: 28px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+    margin-bottom: 28px;
+  ">
     <h3>Currently Working On</h3>
-    <ul>
+    <ul style="color: #555; line-height: 1.8;">
       <li>Designing user-focused interfaces</li>
-      <li>Improving Python development skills</li>
+      <li>Strengthening Python development skills</li>
       <li>Design-to-code real-world projects</li>
     </ul>
   </div>
 
-  <div style="background: #f9f9f9; padding: 24px; border-radius: 14px; margin-bottom: 24px;">
+  <!-- COLLAB -->
+  <div style="
+    background: #ffffff;
+    padding: 28px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+    margin-bottom: 28px;
+  ">
     <h3>Collaboration</h3>
-    <p>
-      Open to collaborating on UI/UX design projects, Python applications,
-      and ideas that combine design and development.
+    <p style="color: #555;">
+      Open to collaborating on UI/UX projects, Python applications,
+      and ideas that bridge design and development.
     </p>
   </div>
 
-  <div style="background: #f9f9f9; padding: 24px; border-radius: 14px;">
+  <!-- CONTACT -->
+  <div style="
+    background: linear-gradient(135deg, #f5f7fa, #eef2f7);
+    padding: 28px;
+    border-radius: 16px;
+  ">
     <h3>Contact</h3>
-    <p>
+    <p style="color: #444; line-height: 1.8;">
       Email: <b>snehapandey8340@gmail.com</b><br/>
       GitHub: <a href="https://github.com/snehakbgit">github.com/snehakbgit</a>
     </p>
@@ -71,8 +139,13 @@
 
 </div>
 
----
+<br/>
 
-<p align="center" style="margin-top: 40px; color: #777;">
+<!-- FOOTER -->
+<p align="center" style="
+  margin-top: 40px;
+  color: #777;
+  font-size: 14px;
+">
   Designing elegant interfaces. Developing meaningful solutions.
 </p>
